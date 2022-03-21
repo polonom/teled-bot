@@ -1,0 +1,10 @@
+settings.py
+.idea/
+python-telegram-bot/
+ venv/
+__pycache__/
+SHNOLL_BASE.mat
+answers.csv
+*.log
+test.py
+pain.py
